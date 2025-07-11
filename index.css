@@ -17,6 +17,7 @@ body{
     justify-content: space-around;
     flex-wrap: nowrap;
     min-width: 1200px;
+    object-fit: cover;
 
 }
 .box img{
